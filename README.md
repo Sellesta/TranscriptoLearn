@@ -2,7 +2,11 @@
 
 **AI Learning Assistant for YouTube Lectures**  
 Transform any YouTube lecture into structured notes, summaries, and interactive Q&A—instantly.
+---
 
+## 🎥 Demo Video
+
+<video src="https://github.com/Sellesta/TranscriptoLearn/raw/main/bandicam%202025-07-12%2014-56-39-071.mp4" controls width="100%"></video>
 ---
 
 ## ✨ Features
