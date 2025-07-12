@@ -6,10 +6,8 @@ Transform any YouTube lecture into structured notes, summaries, and interactive 
 
 ## 🎥 Demo Video
 
+[![Watch the demo on YouTube](https://img.youtube.com/vi/p2J9-E_wHow/hqdefault.jpg)](https://youtu.be/p2J9-E_wHow)
 
-<video src="https://github.com/Sellesta/TranscriptoLearn/raw/main/bandicam%202025-07-12%2014-56-39-071.mp4" controls width="100%" autoplay muted>
-  Your browser does not support the video tag.
-</video>
 
 ---
 
